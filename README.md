@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/TtvV9QYs)
 # Ejercitación: CRUD en MongoDB con Mongoose
 
 En esta ejercitación, aprenderás a interactuar con MongoDB utilizando la librería **Mongoose**, un ODM (Object Data Modeling) popular en el ecosistema Node.js. Implementarás un servidor Express con las operaciones CRUD completas para administrar una colección de equipos.
